@@ -1,4 +1,4 @@
-pyokr
-=====
+OKR Web Interface
+================
 
-A python based OKR manager web interface
+pyokr is a web interface to a python-based OKR manager.
