@@ -19,7 +19,7 @@ setup(
     description="Python based web interface for an OKR manager",
     long_description=LONG_DESC,
     install_requires=[
-        "flask==0.10.1",
+        "flask==2.3.2",
         "flask-login==0.2.10",
         "sqlalchemy==0.9.4",
         "flask-sqlalchemy==1.0"
